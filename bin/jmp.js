@@ -6,5 +6,6 @@ const login = require("../commands/login")
 
 program
   .version(pkg.version)
-  .command("login", "Personalize your experience using jmp-cli")
+  .command("resume", "print json resume to your terminal")
+  .command("login", "personalize your experience")
   .parse(process.argv)
