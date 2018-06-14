@@ -1,11 +1,10 @@
 #! /usr/bin/env node
 
-const LoginManager = require('../lib/login-manager');
+const program = require("commander")
+const pkg = require("../package.json")
+const login = require("../commands/login")
 
-async function main() {
-  const login = new LoginManager('jmp-cli');
-  let [user, email] = await login.getUserAndEmail();
-  console.log(`Hello ${user}, my name is Jared!`);
-}
-
-main().catch(console.error);
+program
+  .version(pkg.version)
+  .command("login", "Personalize your experience using jmp-cli")
+  .parse(process.argv)
