@@ -2,10 +2,10 @@
   "name": "jmp-cli",
   "version": "0.1.0",
   "description": "my json cv in yoru terminal",
-  "main": "index.js",
   "bin": {
     "jmp": "./bin/jmp.js"
   },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
