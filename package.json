@@ -1,0 +1,22 @@
+{
+  "name": "jmp-cli",
+  "version": "0.1.0",
+  "description": "my json cv in yoru terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredmpeterson/jmp-cli.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Jared M. Peterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredmpeterson/jmp-cli/issues"
+  },
+  "homepage": "https://github.com/jaredmpeterson/jmp-cli#readme"
+}
