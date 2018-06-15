@@ -1,6 +1,6 @@
 {
   "name": "jmp-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node cli to publish my resume to your terminal",
   "bin": {
     "jmp": "./bin/jmp.js"
