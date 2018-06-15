@@ -6,5 +6,5 @@ const pkg = require("../package.json")
 program
   .version(pkg.version)
   .command("resume", "print json resume to your terminal")
-  .command("login", "personalize your experience")
+  // .command("login", "personalize your experience")
   .parse(process.argv)
