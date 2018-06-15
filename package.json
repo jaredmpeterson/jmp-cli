@@ -1,13 +1,15 @@
 {
   "name": "jmp-cli",
   "version": "0.1.0",
-  "description": "my json cv in yoru terminal",
+  "description": "node cli to publish my resume to your terminal",
   "bin": {
     "jmp": "./bin/jmp.js"
   },
-  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
-    "test": "node_modules/.bin/mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
