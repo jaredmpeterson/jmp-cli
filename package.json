@@ -5,6 +5,7 @@
   "bin": {
     "jmp": "./bin/jmp.js"
   },
+  "preferGlobal": true,
   "publishConfig": {
     "access": "public"
   },
@@ -16,7 +17,7 @@
     "url": "git+https://github.com/jaredmpeterson/jmp-cli.git"
   },
   "keywords": [
-    "resume"
+    "resume", "node", "cli", "api", "personal", "cv", "jmp"
   ],
   "author": "Jared M. Peterson",
   "license": "MIT",
