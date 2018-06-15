@@ -1,6 +1,6 @@
 {
   "name": "jmp-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "node cli to publish my resume to your terminal",
   "bin": {
     "jmp": "./bin/jmp.js"
@@ -17,7 +17,13 @@
     "url": "git+https://github.com/jaredmpeterson/jmp-cli.git"
   },
   "keywords": [
-    "resume", "node", "cli", "api", "personal", "cv", "jmp"
+    "resume",
+    "node",
+    "cli",
+    "api",
+    "personal",
+    "cv",
+    "jmp"
   ],
   "author": "Jared M. Peterson",
   "license": "MIT",
