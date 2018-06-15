@@ -2,13 +2,24 @@
 
 ## Usage
 
-`npx jmp-cli resume`
+```sh
+$ npx jmp-cli resume
 
-Add `-c, --color` for colored output via [rainbowify](https://github.com/maxogden/rainbowify)
-
-If you want to install it globally use `npm i -g jmp-cli` and use the `jmp` command.
-
+# colored output
+$ npx jmp-cli resume -c
 ```
+
+Colored output via [rainbowify](https://github.com/maxogden/rainbowify)
+
+## Install
+
+```sh
+$ npm install -g jmp-cli
+```
+
+If you want to install it globally use the `jmp` command.
+
+```sh
 $ jmp
 
   Usage: jmp [options] [command]
