@@ -1,0 +1,86 @@
+{
+    "names": {
+        "preferred": "Jared",
+        "legal": "Jared M. Peterson",
+        "handle": "jaredmpeterson"
+    },
+    "status": "Happily self-employed and proud new father.",
+    "website": "https://jaredmpeterson.github.io",
+    "summary": "Web and Mac enthusaist with experience with a broad range of technologies. Interested in environments that foster a positive culture, encourage constant learning and professional growth. Passionate about my family, personal and professional improvement, building cool software, and keeping software and development free and open.",
+    "languages and technologies": {
+        "proficient": ["python", "javascript", "node", "bash/sh", "html/css", "git"],
+        "familiar": ["angular (1.x)", "aws", "docker", "less", "react", "sass"],
+        "learning || to learn": ["go"]
+    },
+    "relevant experience": [{
+            "name": "Olympus Media",
+            "position": "Full Stack Developer",
+            "dates": "2016-Present",
+            "summary": "Self-employed/contract full stack web developer/software engineer.",
+            "technologies": "JavaScript, Node, Express, MongoDB, Python, Django, Pyramid, PostgreSQL"
+        },
+        {
+            "name": "Monumetric",
+            "position": "Software Engineer / Data Analyst",
+            "dates": "2016-2017",
+            "summary": "Developed automated BI solutions using Python 3, PostgreSQL, MongoDB, Jupyter, and Google BigQuery to extract, transform, and load (ETL) GBs of daily data from multiple internal and external sources. Designed and developed custom full-stack apps to deliver daily insight and analysis of key business metrics in front-end dashboards built using custom JavaScript, HTML/CSS, enterprise dashboard tools and open source projects. Forecast client and company performance using Pandas, NumPy, TensorFlow, Scikit-Learn, Prophet and other Machine Learning tools. Documented, tested, and reviewed code.",
+            "technologies": "Python, PostgreSQL, MongoDB, Django, JavaScript, Google Cloud Platform"
+        },
+        {
+            "name": "DevMountain",
+            "position": "Junior Developer",
+            "dates": "2016",
+            "summary": "Full time immersive web development bootcamp",
+            "technologies": "Node, Express, Angular, Chromium (extensions), CSS/preprocessors, MongoDB/Mongoose, build systems, Linux."
+        },
+        {
+            "name": "INFINIT Consulting",
+            "position": "Senior Marketing Manager",
+            "dates": "2014-2016",
+            "summary": "Redesigned website UI/UX increasing lead conversion 80%. Implemented development best practices including git, live/staging/dev environments. Directed complete company rebrand, designed new identity including logo, website and print materials.",
+            "technologies": "JavaScript, HTML5/CSS3, Python, Excel, SQL, Google Analytics,Windows, Mac, Linux workstations and servers."
+        },
+        {
+            "name": "Fenton Companies",
+            "position": "Web Developer & Marketing Manager",
+            "dates": "2009-2014",
+            "summary": "Design, develop, and deploy websites for each portfolio company using HTML, CSS, JavaScript, and jQuery. Responsible for technology related projects for each portfolio company’s strategic business and organizational objectives. Define and initiate projects manage costs, scheduling and performance of project components, while working to ensure project success.",
+            "technologies": "Various library systems including bespoke software and national systems."
+        }
+    ],
+    "education": [{
+        "name": "DevMountain",
+        "year completed": 2016,
+        "summary": "Full-time immersive JavaScript program (bootcamp) with focus on MEAN Stack.",
+        "url": "https://devmountain.com"
+    }],
+    "links": [{
+            "name": "Keybase",
+            "url": "https://keybase.io/jaredmpeterson"
+        },
+        {
+            "name": "Twitter",
+            "url": "http://twitter.com/jaredmpeterson"
+        },
+        {
+            "name": "Tumblr",
+            "url": "http://jaredmpeterson.tumblr.com"
+        },
+        {
+            "name": "Github",
+            "url": "http://github.com/jaredmpeterson"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://linkedin.com/in/thejaredpeterson"
+        },
+        {
+            "name": "Mastodon",
+            "url": "https://mastodon.social/@jaredmpeterson"
+        },
+        {
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com/users/6210619/jaredmpeterson?tab=profile"
+        }
+    ]
+}
