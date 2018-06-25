@@ -24,13 +24,16 @@ $ jmp
 
   Usage: jmp [options] [command]
 
+  jmp-cli by Jared M. Peterson
+
   Options:
 
-    -V, --version  output the version number
-    -h, --help     output usage information
+    -V, --version    output the version number
+    -h, --help       output usage information
 
   Commands:
 
-    resume         print json resume to your terminal
-    help [cmd]     display help for [cmd]
+    resume           output resume to your terminal in json
+    slack <message>  send me a message in slack
+    help [cmd]       display help for [cmd]
 ```
