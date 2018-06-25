@@ -19,7 +19,7 @@ $ npm install -g jmp-cli
 
 If you want to install it globally use the `jmp` command.
 
-```sh
+```
 $ jmp
 
   Usage: jmp [options] [command]
@@ -33,7 +33,7 @@ $ jmp
 
   Commands:
 
-    resume           output resume to your terminal in json
-    slack <message>  send me a message in slack
+    resume           output json resume to your terminal
+    slack <message>  send me a message via Slack
     help [cmd]       display help for [cmd]
 ```

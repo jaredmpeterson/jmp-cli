@@ -16,7 +16,7 @@ program.on("--help", function() {
 
 program
   .arguments("<message>")
-  .description("Send me a message in Slack")
+  .description("Send me a message via Slack")
   .parse(process.argv)
 
 var msg = program.args
