@@ -14,9 +14,9 @@
     },
     "relevant experience": [{
             "name": "Olympus Media",
-            "position": "Full Stack Developer",
-            "dates": "2016-Present",
-            "summary": "Self-employed/contract full stack web developer/software engineer.",
+            "position": "Software Engineer",
+            "dates": "2017-Present",
+            "summary": "Create custom software/websites for client companies. Work cross-functionally with design, front-end and back-end teams to create solutions for client needs. Started weekly training sessions for colleagues focusing on ES6, ReactJS, Python, and basic functional programming concepts.",
             "technologies": "JavaScript, Node, Express, MongoDB, Python, Django, Pyramid, PostgreSQL"
         },
         {
@@ -35,14 +35,14 @@
         },
         {
             "name": "INFINIT Consulting",
-            "position": "Senior Marketing Manager",
+            "position": "Senior Marketing Manager/Front-End Developer",
             "dates": "2014-2016",
             "summary": "Redesigned website UI/UX increasing lead conversion 80%. Implemented development best practices including git, live/staging/dev environments. Directed complete company rebrand, designed new identity including logo, website and print materials.",
-            "technologies": "JavaScript, HTML5/CSS3, Python, Excel, SQL, Google Analytics,Windows, Mac, Linux workstations and servers."
+            "technologies": "JavaScript, HTML5/CSS3, Python, Excel, SQL, Google Analytics, Windows, Mac, Linux workstations and servers."
         },
         {
             "name": "Fenton Companies",
-            "position": "Web Developer & Marketing Manager",
+            "position": "Front-End Developer & Marketing Manager",
             "dates": "2009-2014",
             "summary": "Design, develop, and deploy websites for each portfolio company using HTML, CSS, JavaScript, and jQuery. Responsible for technology related projects for each portfolio company’s strategic business and organizational objectives. Define and initiate projects manage costs, scheduling and performance of project components, while working to ensure project success.",
             "technologies": "Various library systems including bespoke software and national systems."
@@ -63,24 +63,12 @@
             "url": "http://twitter.com/jaredmpeterson"
         },
         {
-            "name": "Tumblr",
-            "url": "http://jaredmpeterson.tumblr.com"
-        },
-        {
             "name": "Github",
             "url": "http://github.com/jaredmpeterson"
         },
         {
             "name": "LinkedIn",
             "url": "https://linkedin.com/in/thejaredpeterson"
-        },
-        {
-            "name": "Mastodon",
-            "url": "https://mastodon.social/@jaredmpeterson"
-        },
-        {
-            "name": "Stack Overflow",
-            "url": "https://stackoverflow.com/users/6210619/jaredmpeterson?tab=profile"
         }
     ]
 }
