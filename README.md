@@ -1,39 +1,68 @@
 # jmp-cli
 
-## Usage
+⚠️ **LEGACY VERSION ARCHIVED** ⚠️
+
+This repository contains the legacy v0.2.3 codebase which is now **archived and no longer maintained**.
+
+## Current Status
+
+- **Legacy Version**: `v0.2.3` (archived 2024)
+- **New Version**: Complete TypeScript rewrite in progress → `v1.0.0`
+- **Git Tag**: Legacy code preserved at `v0.2.3-legacy`
+- **Branch**: Legacy code available on `legacy/v0.2.3` branch
+
+## Migration Notice
+
+🚀 **v1.0.0+ Complete Rewrite**
+
+- Modern TypeScript implementation
+- Enhanced security and performance
+- Rich interactive CLI experience
+- Plugin architecture
+- Better error handling and validation
+
+## Legacy Installation (v0.2.3)
+
+If you need the legacy version:
 
 ```sh
-$ npx jmp-cli resume
+# Install specific legacy version
+npm install -g jmp-cli@0.2.3
 
-# colored output
-$ npx jmp-cli resume -c
+# Or use without installing
+npx jmp-cli@0.2.3 resume
 ```
 
-Colored output via [rainbowify](https://github.com/maxogden/rainbowify)
-
-## Install
+## Legacy Usage (v0.2.3)
 
 ```sh
-$ npm install -g jmp-cli
+$ jmp resume           # output json resume to terminal
+$ jmp resume -c        # colored output via rainbowify
+$ jmp slack "message"  # send message via Slack
 ```
 
-If you want to install it globally use the `jmp` command.
+## Development History
 
-```
-$ jmp
+This package was originally created as a personal resume CLI tool by Jared M. Peterson. The legacy implementation (2017-2024) served as a proof-of-concept and learning project.
 
-  Usage: jmp [options] [command]
+### Legacy Features
 
-  jmp-cli by Jared M. Peterson
+- JSON resume display with rainbow colors
+- Slack messaging integration
+- Simple CLI interface using Commander.js
+- Personal branding tool
 
-  Options:
+### Known Legacy Issues
 
-    -V, --version    output the version number
-    -h, --help       output usage information
+- Outdated dependencies (6+ major versions behind)
+- Hardcoded security credentials
+- No error handling or input validation
+- Limited functionality and extensibility
 
-  Commands:
+## License
 
-    resume           output json resume to your terminal
-    slack <message>  send me a message via Slack
-    help [cmd]       display help for [cmd]
-```
+MIT - See LICENSE file
+
+---
+
+**For the new v1.0.0+ implementation, see the main branch after the rewrite is complete.**
